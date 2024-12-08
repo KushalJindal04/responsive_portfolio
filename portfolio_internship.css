@@ -1,0 +1,306 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#port-navbar-color {
+    color: #9aa5b1;
+}
+
+.port-head1 {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 7px;
+}
+
+.port-head1-conatiner {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #4b6cc1;
+}
+
+.port-bgclr1 {
+    background-color: #191a1d;
+    background-size: cover;
+    height: 100vh;
+}
+
+.port-img1 {
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+
+.port-head2 {
+    color: white;
+    font-size: 43px;
+    font-family: roboto;
+
+}
+
+.port-head2-color {
+    color: #4b6cc1;
+}
+
+.port-para1 {
+    color: #9aa5b1;
+    font-size: 25px;
+    font-family: roboto;
+}
+
+.port-button {
+    background-color: #4b6cc1;
+    color: white;
+    height: 55px;
+    width: 180px;
+    font-size: 25px;
+    font-family: roboto;
+    border-width: 0;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.about-me-bgclr1 {
+    background-color: #323f4b;
+}
+
+.about-me-head1 {
+    color: #cced00;
+    font-family: roboto;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.about-me-para1 {
+    color: white;
+    font-family: roboto;
+    font-size: 38px;
+    font-weight: 600;
+}
+
+.about-me-img1 {
+    width: 100%;
+}
+
+.about-me-para2 {
+    color: #9aa5b1;
+    font-family: roboto;
+    font-size: 25px;
+}
+
+.about-me-bgclr2 {
+    background-color: #1f2933;
+    background-size: cover;
+}
+
+.about-me-skills-container1 {
+    background-color: #323f4b;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.about-me-img2 {
+    width: 64px;
+    height: 64px;
+}
+
+.about-me-head2 {
+    color: white;
+    font-family: roboto;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.about-me-head3 {
+    color: #cced00;
+    font-family: roboto;
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: -20px;
+    margin-bottom: -20px;
+}
+
+.port-projects-bgclr1 {
+    background-color: #3e4c59;
+}
+
+.port-projects-head1 {
+    color: #cced00;
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.port-projects-head2 {
+    color: white;
+    font-family: roboto;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.port-projects-img1 {
+    width: 100%;
+}
+
+.port-projects-card1 {
+    border-radius: 5px;
+    background-color: #323f4b;
+    background-size: cover;
+}
+
+.port-projects-para1 {
+    color: #9aa5b1;
+    font-family: roboto;
+    font-size: 15px;
+}
+
+.port-projects-head3 {
+    color: white;
+    font-family: roboto;
+    font-size: 25px;
+}
+
+.port-projects-para2 {
+    color: #9aa5b1;
+    font-family: roboto;
+    font-size: 20px;
+}
+
+.port-projects-anchor1 {
+    color: #cced00;
+    font-weight: 600;
+}
+
+.port-projects-card2 {
+    border-radius: 5px;
+    background-color: #323f4b;
+    background-size: cover;
+}
+
+.port-services-bgclr1 {
+    background-color: #52606d;
+}
+
+.port-services-head1 {
+    color: #cced00;
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.port-services-para1 {
+    color: white;
+    font-size: 38px;
+    font-family: roboto;
+    font-weight: 600;
+}
+
+.port-services-card1 {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.port-services-img1 {
+    width: 70px;
+}
+
+.port-services-head2 {
+    color: white;
+    font-family: roboto;
+    font-size: 34px;
+    font-weight: 600;
+}
+
+.port-services-para2 {
+    color: #9aa5b1;
+    font-size: 25px;
+    font-family: roboto;
+}
+
+.testimonials-bgclr1 {
+    background-color: #1f2933;
+}
+
+.testimonials-subheading {
+    color: #cced00;
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.testimonials-heading {
+    color: white;
+    font-family: roboto;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.testimonials-bgclr2 {
+    background-color: #323f4b;
+}
+
+.testimonials-img1 {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin: 10px;
+}
+
+.testimonials-para1 {
+    color: #9aa5b1;
+    font-family: roboto;
+    font-size: 18px;
+}
+
+.testimonials-para2 {
+    color: white;
+    font-family: roboto;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.port-footer-bgclr1 {
+    background-color: #0d2436;
+}
+
+.port-footer-img1 {
+    width: 80px;
+    height: 80px;
+    border-radius: 80px;
+}
+
+.port-footer-head1 {
+    font-size: 25px;
+    color: #cced00;
+    font-family: roboto;
+    font-weight: 600;
+}
+
+.port-footer-para1 {
+    font-size: 15px;
+    color: #9aa5b1;
+    font-family: roboto;
+}
+
+.port-footer-head2 {
+    font-size: 25px;
+    color: #cced00;
+    font-family: roboto;
+    font-weight: 600;
+}
+
+.port-footer-icon1 {
+    color: #5a7184;
+    padding: 10px;
+}
+
+.port-footer-para2 {
+    color: #9aa5b1;
+    font-size: 15px;
+}
+
+.port-footer-bgclr2 {
+    background-color: #001c32;
+}
+
+.port-footer-icon2 {
+    color: #5a7184;
+}
